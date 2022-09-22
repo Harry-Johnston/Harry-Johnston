@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harry</h1>
 <h3 align="center">A passionate full-stack developer from Bristol</h3>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harry-johnston" alt="harry-johnston" /></a> </p> -->
-
 - 🌱 I’m currently learning **at iO Academy**
 
 - 👨‍💻 All of my projects are available at [harry-johnston.com](harry-johnston.com)

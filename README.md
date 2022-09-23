@@ -19,6 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harry-johnston&show_icons=true&locale=en" alt="harry-johnston" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harry-johnston&" alt="harry-johnston" /></p>
 
 

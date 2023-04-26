@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working as a mobile developer **at LivingWith**
 
-- 👨‍💻 All of my personal projects are available at [https://2022-harryj.dev.io-academy.uk/Portfolio-Repo/](harry-johnston.com)
+- 👨‍💻 All of my personal projects are available at my [portfolio]([harry-johnston.com](https://2022-harryj.dev.io-academy.uk/Portfolio-Repo/))
 
 - 📫 How to reach me **virtual.slide@gmail.com**
 
